@@ -1,0 +1,835 @@
+@media screen and (min-width: 320px) and (max-width: 374px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 2%;
+    }
+
+    img{
+        width: 85px;
+        height: 57px;
+        margin: 2px;
+    }
+
+    .left, .r{
+        display: flex;
+    }
+
+    .l{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .right{
+        text-align: center;
+        margin: auto;
+    }
+    
+    .max, .min{
+        margin: 2px;
+        font-size: 10px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        background-color: rgb(252, 255, 154);
+        padding: 5px;
+        text-align: center;
+        border: solid 1px;
+        border-radius: 3px;
+        width: fit-content;                  
+    }
+    
+    main{
+        margin-top: 5px;
+        text-align: center;
+    }
+    
+    .u, .q, .s{
+        font-size: 10px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+    }
+    
+    .dp{
+        font-size: 10px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        margin: auto 1px;
+    }
+
+    .dp, .s{
+        background-color: rgb(252, 255, 154);
+        padding: 5px;
+        text-align: center;
+        border: solid 1px;
+        border-radius: 3px;
+        width: fit-content;
+    }
+    
+    .s{
+        margin: 1px auto;
+    }
+    
+    .dp:hover, .q:hover, .min:hover, .max:hover{
+        background-color: rgb(37, 0, 57);
+        color: rgb(252, 255, 154);
+        cursor: pointer;
+    }
+    
+    .u{
+        display: flex;
+        text-align: center;
+        margin: 0px auto;
+    }
+    
+    .q{
+        background-color: rgb(252, 255, 154);
+        padding: 5px;
+        margin: 1px;
+        padding-right: 5px;
+        border: solid 1px;
+        border-radius: 3px;
+        text-align: center;
+        width: fit-content;
+    }
+    
+    #w{
+        margin-left: auto;
+        text-align: center;
+    }
+    
+    #q{
+        margin-right: auto;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 424px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 2%;
+    }
+
+    img{
+        width: 100px;
+        height: 73px;
+        margin: 2px;
+    }
+
+    .left, .r{
+        display: flex;
+    }
+
+    .l{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .right{
+        text-align: center;
+        margin: auto;
+    }
+    
+    .max, .min{
+        margin: 2px;
+        font-size: 13px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        background-color: rgb(252, 255, 154);
+        padding: 5px;
+        text-align: center;
+        border: solid 1px;
+        border-radius: 3px;
+        width: fit-content;                  
+    }
+    
+    main{
+        margin-top: 5px;
+        text-align: center;
+    }
+    
+    .u, .q, .s{
+        font-size: 13px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+    }
+    
+    .dp{
+        font-size: 13px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        margin: auto 1px;
+    }
+
+    .dp, .s{
+        background-color: rgb(252, 255, 154);
+        padding: 5px;
+        text-align: center;
+        border: solid 1px;
+        border-radius: 3px;
+        width: fit-content;
+    }
+    
+    .s{
+        margin: 1px auto;
+    }
+    
+    .dp:hover, .q:hover, .min:hover, .max:hover{
+        background-color: rgb(37, 0, 57);
+        color: rgb(252, 255, 154);
+        cursor: pointer;
+    }
+    
+    .u{
+        display: flex;
+        text-align: center;
+        margin: 0px auto;
+    }
+    
+    .q{
+        background-color: rgb(252, 255, 154);
+        padding: 5px;
+        margin: 1px;
+        padding-right: 5px;
+        border: solid 1px;
+        border-radius: 3px;
+        text-align: center;
+        width: fit-content;
+    }
+    
+    #w{
+        margin-left: auto;
+        text-align: center;
+    }
+    
+    #q{
+        margin-right: auto;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 425px) and (max-width: 767px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 2%;
+    }
+
+    img{
+        width: 100px;
+        height: 73px;
+        margin: 2px;
+    }
+
+    .left, .r{
+        display: flex;
+    }
+
+    .l{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .right{
+        text-align: center;
+        margin: auto;
+    }
+    
+    .max, .min{
+        margin: 2px;
+        font-size: 15px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        background-color: rgb(252, 255, 154);
+        padding: 5px;
+        text-align: center;
+        border: solid 1px;
+        border-radius: 3px;
+        width: fit-content;                  
+    }
+    
+    main{
+        margin-top: 5px;
+        text-align: center;
+    }
+    
+    .u, .q, .s{
+        font-size: 15px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+    }
+    
+    .dp{
+        font-size: 15px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        margin: auto 1px;
+    }
+
+    .dp, .s{
+        background-color: rgb(252, 255, 154);
+        padding: 5px;
+        text-align: center;
+        border: solid 1px;
+        border-radius: 3px;
+        width: fit-content;
+    }
+    
+    .s{
+        margin: 1px auto;
+    }
+    
+    .dp:hover, .q:hover, .min:hover, .max:hover{
+        background-color: rgb(37, 0, 57);
+        color: rgb(252, 255, 154);
+        cursor: pointer;
+    }
+    
+    .u{
+        display: flex;
+        text-align: center;
+        margin: 0px auto;
+    }
+    
+    .q{
+        background-color: rgb(252, 255, 154);
+        padding: 5px;
+        margin: 1px;
+        padding-right: 5px;
+        border: solid 1px;
+        border-radius: 3px;
+        text-align: center;
+        width: fit-content;
+    }
+    
+    #w{
+        margin-left: auto;
+        text-align: center;
+    }
+    
+    #q{
+        margin-right: auto;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 1%;
+    }
+
+    img{
+        width: 148px;
+        height: 98px;
+        margin: 5px;
+    }
+
+    .left, .r{
+        display: flex;
+    }
+
+    .l{
+        display: flex;
+        justify-content: center;
+    }
+
+    .right{
+        text-align: center;
+        margin: auto;
+    }
+    
+    .max, .min{
+        margin: 5px;
+        font-size: 21px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        background-color: rgb(252, 255, 154);
+        padding: 10px;
+        text-align: center;
+        border: solid 2px;
+        border-radius: 10px;
+        width: fit-content;                  
+    }
+    
+    main{
+        margin-top: 5px;
+        text-align: center;
+    }
+    
+    .u, .q, .s{
+        font-size: 21px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+    }
+    
+    .dp{
+        font-size: 21px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        margin: auto 5px;
+    }
+
+    .dp, .s{
+        background-color: rgb(252, 255, 154);
+        padding: 10px;
+        text-align: center;
+        border: solid 2px;
+        border-radius: 10px;
+        width: fit-content;
+    }
+    
+    .s{
+        margin: 5px auto;
+    }
+    
+    .dp:hover, .q:hover, .min:hover, .max:hover{
+        background-color: rgb(37, 0, 57);
+        color: rgb(252, 255, 154);
+        cursor: pointer;
+    }
+    
+    .u{
+        display: flex;
+        text-align: center;
+        margin: 0px auto;
+    }
+    
+    .q{
+        background-color: rgb(252, 255, 154);
+        padding: 10px;
+        margin: 5px;
+        border: solid 2px;
+        border-radius: 10px;
+        text-align: center;
+        width: fit-content;
+    }
+    
+    #w{
+        margin-left: auto;
+        text-align: center;
+    }
+    
+    #q{
+        margin-right: auto;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1439px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 1%;
+    }
+
+    img{
+        width: 148px;
+        height: 98px;
+        margin: 5px;
+    }
+
+    header, .r, .l{
+        display: flex;
+        justify-content: center;
+    }
+
+    .right{
+        text-align: center;
+        margin: auto;
+    }
+
+    .left{
+        text-align: center;
+        margin: auto;
+    }
+    
+    .max, .min{
+        margin: 7.5px;
+        font-size: 18px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        background-color: rgb(252, 255, 154);
+        padding: 8px;
+        text-align: center;
+        border: solid 2px;
+        border-radius: 10px;
+        width: fit-content;                  
+    }
+    
+    main{
+        margin-top: 5px;
+        text-align: center;
+    }
+    
+    .u, .q, .s{
+        font-size: 18px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+    }
+    
+    .dp{
+        font-size: 18px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        margin: auto 5px;
+    }
+
+    .dp, .s{
+        background-color: rgb(252, 255, 154);
+        padding: 8px;
+        text-align: center;
+        border: solid 2px;
+        border-radius: 10px;
+        width: fit-content;
+    }
+    
+    .s{
+        margin: 5px auto;
+    }
+    
+    .dp:hover, .q:hover, .min:hover, .max:hover{
+        background-color: rgb(37, 0, 57);
+        color: rgb(252, 255, 154);
+        cursor: pointer;
+    }
+    
+    .u{
+        display: flex;
+        text-align: center;
+        margin: 0px auto;
+    }
+    
+    .q{
+        background-color: rgb(252, 255, 154);
+        padding: 8px;
+        margin: 5px;
+        border: solid 2px;
+        border-radius: 10px;
+        text-align: center;
+        width: fit-content;
+    }
+    
+    #w{
+        margin-left: auto;
+        text-align: center;
+    }
+    
+    #q{
+        margin-right: auto;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 1440px) and (max-width: 1919px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 1%;
+    }
+
+    img{
+        width: 183px;
+        height: 131px;
+        margin: 5px;
+    }
+
+    header, .r, .l{
+        display: flex;
+        justify-content: center;
+    }
+
+    .right{
+        text-align: center;
+        margin: auto;
+    }
+
+    .left{
+        text-align: center;
+        margin: auto;
+    }
+    
+    .max, .min{
+        margin: 10px;
+        font-size: 27px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        background-color: rgb(252, 255, 154);
+        padding: 8px;
+        border: solid 2px;
+        border-radius: 10px;
+        width: fit-content;                  
+    }
+    
+    main{
+        margin-top: 5px;
+        text-align: center;
+    }
+    
+    .u, .q, .s{
+        font-size: 27px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+    }
+    
+    .dp{
+        font-size: 27px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        margin: auto 5px;
+    }
+
+    .dp, .s{
+        background-color: rgb(252, 255, 154);
+        padding: 8px;
+        text-align: center;
+        border: solid 2px;
+        border-radius: 10px;
+        width: fit-content;
+    }
+    
+    .s{
+        margin: 5px auto;
+    }
+    
+    .dp:hover, .q:hover, .min:hover, .max:hover{
+        background-color: rgb(37, 0, 57);
+        color: rgb(252, 255, 154);
+        cursor: pointer;
+    }
+    
+    .u{
+        display: flex;
+        text-align: center;
+        margin: 0px auto;
+    }
+    
+    .q{
+        background-color: rgb(252, 255, 154);
+        padding: 8px;
+        margin: 5px;
+        border: solid 2px;
+        border-radius: 10px;
+        text-align: center;
+        width: fit-content;
+    }
+    
+    #w{
+        margin-left: auto;
+        text-align: center;
+    }
+    
+    #q{
+        margin-right: auto;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 1920px) and (max-width: 2559px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 1%;
+    }
+
+    img{
+        width: 234px;
+        height: 163px;
+        margin: 9px;
+    }
+
+    header, .r, .l{
+        display: flex;
+        justify-content: center;
+    }
+
+    .right{
+        text-align: center;
+        margin: auto;
+    }
+
+    .left{
+        text-align: center;
+        margin: auto;
+    }
+    
+    .max, .min{
+        margin: 15px;
+        font-size: 36px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        background-color: rgb(252, 255, 154);
+        padding: 10px;
+        border: solid 2px;
+        border-radius: 10px;
+        width: fit-content;                  
+    }
+    
+    main{
+        margin-top: 9px;
+        text-align: center;
+    }
+    
+    .u, .q, .s{
+        font-size: 36px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+    }
+    
+    .dp{
+        font-size: 36px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        margin: auto 8px;
+    }
+
+    .dp, .s{
+        background-color: rgb(252, 255, 154);
+        padding: 10px;
+        text-align: center;
+        border: solid 2px;
+        border-radius: 10px;
+        width: fit-content;
+    }
+    
+    .s{
+        margin: 9px auto;
+    }
+    
+    .dp:hover, .q:hover, .min:hover, .max:hover{
+        background-color: rgb(37, 0, 57);
+        color: rgb(252, 255, 154);
+        cursor: pointer;
+    }
+    
+    .u{
+        display: flex;
+        text-align: center;
+        margin: 0px auto;
+    }
+    
+    .q{
+        background-color: rgb(252, 255, 154);
+        padding: 10px;
+        margin: 9px;
+        border: solid 2px;
+        border-radius: 10px;
+        text-align: center;
+        width: fit-content;
+    }
+    
+    #w{
+        margin-left: auto;
+        text-align: center;
+    }
+    
+    #q{
+        margin-right: auto;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 2560px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 1%;
+    }
+
+    img{
+        width: 284px;
+        height: 193px;
+        margin: 12px;
+    }
+
+    header, .r, .l{
+        display: flex;
+        justify-content: center;
+    }
+
+    .right{
+        text-align: center;
+        margin: auto;
+    }
+
+    .left{
+        text-align: center;
+        margin: auto;
+    }
+    
+    .max, .min{
+        margin: 17.5px;
+        font-size: 50px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        background-color: rgb(252, 255, 154);
+        padding: 11px;
+        border: solid 3px;
+        border-radius: 23px;
+        width: fit-content;                  
+    }
+    
+    main{
+        margin-top: 12px;
+        text-align: center;
+    }
+    
+    .u, .q, .s{
+        font-size: 50px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+    }
+    
+    .dp{
+        font-size: 50px;    
+        font-family: 'Times New Roman';
+        color: rgb(37, 0, 57);
+        margin: auto 12px;
+    }
+
+    .dp, .s{
+        background-color: rgb(252, 255, 154);
+        padding: 11px;
+        text-align: center;
+        border: solid 3px;
+        border-radius: 23px;
+        width: fit-content;
+    }
+    
+    .s{
+        margin: 12px auto;
+    }
+    
+    .dp:hover, .q:hover, .min:hover, .max:hover{
+        background-color: rgb(37, 0, 57);
+        color: rgb(252, 255, 154);
+        cursor: pointer;
+    }
+    
+    .u{
+        display: flex;
+        text-align: center;
+        margin: 0px auto;
+    }
+    
+    .q{
+        background-color: rgb(252, 255, 154);
+        padding: 11px;
+        margin: 12px;
+        border: solid 3px;
+        border-radius: 23px;
+        text-align: center;
+        width: fit-content;
+    }
+    
+    #w{
+        margin-left: auto;
+        text-align: center;
+    }
+    
+    #q{
+        margin-right: auto;
+        text-align: center;
+    }
+}

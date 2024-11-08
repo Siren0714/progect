@@ -1,0 +1,279 @@
+@media screen and (min-width: 320px) and (max-width: 374px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 2%;
+    }
+
+    header{
+        text-align: center;
+    }
+
+    img{
+        width: 183px;
+        height: 131px;
+        margin: 20px auto;
+    }
+
+    .text{
+        color: rgb(0, 0, 0);
+        font-family: Times;
+        font-size: 16px;
+        margin: 4px;
+    }
+    
+    span{
+        color: rgb(255, 251, 0);
+        font-weight: bold;
+        text-shadow: rgb(0, 0, 0) 0px 0px 2px;
+    }
+
+    span:hover{
+        color: rgb(136, 0, 255);
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 424px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 2%;
+    }
+
+    header{
+        text-align: center;
+    }
+
+    img{
+        width: 183px;
+        height: 131px;
+        margin: 20px auto;
+    }
+
+    .text{
+        color: rgb(0, 0, 0);
+        font-family: Times;
+        font-size: 18px;
+        margin: 4px;
+    }
+    
+    span{
+        color: rgb(255, 251, 0);
+        font-weight: bold;
+        text-shadow: rgb(0, 0, 0) 0px 0px 2px;
+    }
+
+    span:hover{
+        color: rgb(136, 0, 255);
+    }
+}
+
+@media screen and (min-width: 425px) and (max-width: 767px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 2%;
+    }
+
+    header{
+        text-align: center;
+    }
+
+    img{
+        width: 183px;
+        height: 131px;
+        margin: 20px auto;
+    }
+    
+    .text{
+        color: rgb(0, 0, 0);
+        font-family: Times;
+        font-size: 20px;
+        margin: 4px;
+    }
+    
+    span{
+        color: rgb(255, 251, 0);
+        font-weight: bold;
+        text-shadow: rgb(0, 0, 0) 0px 0px 2px;
+    }
+
+    span:hover{
+        color: rgb(136, 0, 255);
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 1%;
+    }
+
+    header{
+        display: flex;
+    }
+
+    img{
+        width: 183px;
+        height: 131px;
+        margin: 20px;
+    }
+    
+    .text{
+        color: rgb(0, 0, 0);
+        font-family: Times;
+        font-size: 18px;
+        margin: 16px 24px 20px 4px;
+    }
+
+    span{
+        color: rgb(255, 251, 0);
+        font-weight: bold;
+        text-shadow: rgb(0, 0, 0) 0px 0px 2px;
+    }
+
+    span:hover{
+        color: rgb(136, 0, 255);
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1439px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 1%;
+    }
+
+    header{
+        display: flex;
+    }
+
+    img{
+        width: 213px;
+        height: 151px;
+        margin: 20px;
+    }
+    
+    .text{
+        color: rgb(0, 0, 0);
+        font-family: Times;
+        font-size: 20px;
+        margin: 28px 24px 20px 4px;
+    }
+    
+    span{
+        color: rgb(255, 251, 0);
+        font-weight: bold;
+        text-shadow: rgb(0, 0, 0) 0px 0px 2px;
+    }
+
+    span:hover{
+        color: rgb(136, 0, 255);
+    }
+}
+
+@media screen and (min-width: 1440px) and (max-width: 1919px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 1%;
+    }
+
+    header{
+        display: flex;
+    }
+
+    img{
+        width: 253px;
+        height: 181px;
+        margin: 20px;
+    }
+    
+    .text{
+        color: rgb(0, 0, 0);
+        font-family: Times;
+        font-size: 26px;
+        margin: 36px 24px 4px 20px;
+    }
+    
+    span{
+        color: rgb(255, 251, 0);
+        font-weight: bold;
+        text-shadow: rgb(0, 0, 0) 0px 0px 2px;
+    }
+
+    span:hover{
+        color: rgb(136, 0, 255);
+    }
+}
+
+@media screen and (min-width: 1920px) and (max-width: 2559px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 1%;
+    }
+
+    header{
+        display: flex;
+    }
+
+    img{
+        width: 253px;
+        height: 181px;
+        margin: 20px;
+    }
+    
+    .text{
+        color: rgb(0, 0, 0);
+        font-family: Times;
+        font-size: 34px;
+        margin: 36px 24px 4px 20px;
+    }
+    
+    span{
+        color: rgb(255, 251, 0);
+        font-weight: bold;
+        text-shadow: rgb(0, 0, 0) 0px 0px 2px;
+    }
+
+    span:hover{
+        color: rgb(136, 0, 255);
+    }
+}
+
+@media screen and (min-width: 2560px){
+    body{
+        background-color: rgb(231, 191, 255);
+        margin: auto;
+        padding: 1%;
+    }
+
+    header{
+        display: flex;
+    }
+
+    img{
+        width: 273px;
+        height: 191px;
+        margin: 20px;
+    }
+    
+    .text{
+        color: rgb(0, 0, 0);
+        font-family: Times;
+        font-size: 36px;
+        margin: 40px 24px 4px 20px;
+    }
+    
+    span{
+        color: rgb(255, 251, 0);
+        font-weight: bold;
+        text-shadow: rgb(0, 0, 0) 0px 0px 2px;
+    }
+
+    span:hover{
+        color: rgb(136, 0, 255);
+    }
+}
